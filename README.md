@@ -2,12 +2,15 @@
 Curated list of bridges between blockchains
 
 ### Aggregators
-- [Transferto](https://transferto.xyz/swap)
+- [LI.FI Jumper]([https://transferto.xyz/swap](https://jumper.exchange/))
 - [Bungee](https://bungee.exchange/)
 
 ### Universal bridges that support most chains and assets
+- [WAN bridge](https://bridge.wanchain.org) Some paths are free
 - [Multichain](https://app.multichain.org/#/router) No fee for Ethereum -> Fantom transfers.
 - [Stagate](https://stargate.finance/transfer)
+- [EYWA](https://app.eywa.fi) Good for smaller amounts
+- [Hyphen by Biconomy](https://hyphen.biconomy.io/bridge)
 - [Connext](https://bridge.connext.network/)
 - [Synapse](https://synapseprotocol.com)
 - [Across](https://across.to/bridge)
