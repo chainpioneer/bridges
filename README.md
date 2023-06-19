@@ -2,7 +2,7 @@
 Curated list of bridges between blockchains
 
 ### Aggregators
-- [LI.FI Jumper]([https://transferto.xyz/swap](https://jumper.exchange/))
+- [LI.FI Jumper](https://jumper.exchange/)
 - [Bungee](https://bungee.exchange/)
 
 ### Universal bridges that support most chains and assets
