@@ -7,13 +7,13 @@ Curated list of bridges between blockchains
 
 ### Universal bridges that support most chains and assets
 - [WAN bridge](https://bridge.wanchain.org) Some paths are free
-- [Multichain](https://app.multichain.org/#/router) No fee for Ethereum -> Fantom transfers.
 - [Stagate](https://stargate.finance/transfer)
 - [EYWA](https://app.eywa.fi) Good for smaller amounts
 - [Hyphen by Biconomy](https://hyphen.biconomy.io/bridge)
 - [Connext](https://bridge.connext.network/)
 - [Synapse](https://synapseprotocol.com)
 - [Across](https://across.to/bridge)
+- [Beamer](https://app.beamerbridge.com/) Open source rollup specific bridge [🔗](https://github.com/beamer-bridge/beamer)
 
 
 ### Chain oriented bridges (lower fee as a rule)
