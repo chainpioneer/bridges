@@ -6,14 +6,14 @@ Curated list of bridges between blockchains
 - [Bungee](https://bungee.exchange/)
 
 ### Universal bridges that support most chains and assets
-- [WAN bridge](https://bridge.wanchain.org) Some paths are free
+- [WAN bridge](https://bridge.wanchain.org)
+- [Chainge](https://dapp.chainge.finance/)
 - [Stagate](https://stargate.finance/transfer)
-- [EYWA](https://app.eywa.fi) Good for smaller amounts
+- [EYWA](https://app.eywa.fi)
 - [Hyphen by Biconomy](https://hyphen.biconomy.io/bridge)
 - [Connext](https://bridge.connext.network/)
 - [Synapse](https://synapseprotocol.com)
 - [Across](https://across.to/bridge)
-- [Beamer](https://app.beamerbridge.com/) Open source rollup specific bridge [🔗](https://github.com/beamer-bridge/beamer)
 
 
 ### Chain oriented bridges (lower fee as a rule)
